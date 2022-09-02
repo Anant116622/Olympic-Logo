@@ -1,0 +1,15 @@
+h1{
+    color: red
+  }
+  #myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: black;
+    background-color: cyan;
+  }
+  .body_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
